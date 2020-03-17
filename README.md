@@ -1,0 +1,2 @@
+# lnmp
+lnmp环境
